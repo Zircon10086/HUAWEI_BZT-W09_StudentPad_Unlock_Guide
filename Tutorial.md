@@ -8,6 +8,11 @@
 而其他麒麟处理器没有收到更新，没有受到影响。  
 BZT-W09 使用麒麟659处理器。
 
+
+---
+
+## 请到[Release](https://github.com/Zircon10086/HUAWEI_BZT-W09_StudentPad_Unlock_Guide/releases)下载工具包，解压好备用
+
 ---
 
 ## 1. 安装测试点驱动程序
