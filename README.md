@@ -1,7 +1,3 @@
-# HUAWEI_BZT-W09_StudentPad_Unlock_Guide
-
-# HUAWEI_BZT-W09_StudentPad_Unlock_Guide
-
 # 华为 BZT-W09 平板刷机教程（适用于定制系统）
 
 本项目提供一份适用于华为 BZT-W09 平板电脑（C5）的详细刷机教程，并且包含所有需要的文件
@@ -13,16 +9,18 @@
 ## 支持型号
 
 - 华为 BZT-W09 (C5)
+- 华为 BZT-AL00
+- 华为 BZT-AL10
 - 其他使用以下处理器的华为平板 (详见PotatoNV支持的处理器)
-  Kirin 620
-  Kirin 650
-  Kirin 655
-  Kirin 658
-  Kirin 659
-  Kirin 925
-  Kirin 935
-  Kirin 950
-  Kirin 960
+- Kirin 620
+- Kirin 650
+- Kirin 655
+- Kirin 658
+- Kirin 659
+- Kirin 925
+- Kirin 935
+- Kirin 950
+- Kirin 960
 
 ---
 
@@ -41,9 +39,9 @@
 
 ---
 
+## 教程
 
-
-
+[教程](Tutorial.md)
 
 
 
